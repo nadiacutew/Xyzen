@@ -4,14 +4,6 @@ Thankyou have downloaded our module :)
 
 This module is still in the process of being updated to version 1.2.2 with the addition of 200+ new colors okay!
 
-My WhatsApp & Telegram account
-
-t.me/zensusid
+My WhatsApp
 
 wa.me/6285927217404
-
-**"Copy"**
-npm install xyzen
-
-**"Copy"**
-yarn add xyzen

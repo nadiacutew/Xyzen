@@ -1,9 +1,13 @@
-# Xyzen
-Color module for console in Linux terminal and termux, using nodejs language which is designed to display color on text in terminal 
-Thankyou have downloaded our module :)
+# xyzen  
 
-This module is still in the process of being updated to version 1.2.2 with the addition of 200+ new colors okay!
+**xyzen** is a powerful Node.js module that provides over **250 colors**, including **neon colors**, **bold text**, and **text animations** for stylish terminal output.  
 
-My WhatsApp
+## 🚀 Features  
+- 🎨 **50+ Basic Colors** (including background colors)  
+- 🌈 **200 Neon Colors** from ANSI 256-color palette  
+- 🔥 **Bold Text Support** (`.bold()`)  
+- ⚡ **Text Animation Effect** (`blink()`)  
 
-wa.me/6285927217404
+## 📦 Installation  
+```sh
+npm install xyzen

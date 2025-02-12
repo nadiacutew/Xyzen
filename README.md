@@ -9,3 +9,9 @@ My WhatsApp & Telegram account
 t.me/zensusid
 
 wa.me/6285927217404
+
+**"Copy"**
+npm install xyzen
+
+**"Copy"**
+yarn add xyzen

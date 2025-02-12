@@ -8,6 +8,13 @@
 - 🔥 **Bold Text Support** (`.bold()`)  
 - ⚡ **Text Animation Effect** (`blink()`)  
 
+## </> Code
+const xyzen = require('xyzen');
+
+console.log(xyzen.red('Hello, World!'));
+console.log(xyzen.blue.bold('Bold Blue Text'));
+console.log(xyzen.bgGreen('Green Background'));
+
 ## 📦 Installation  
 ```sh
 npm install xyzen

@@ -1,6 +1,6 @@
 # xyzen  
 
-**xyzen** is a powerful Node.js module that provides over **250 colors**, including **neon colors**, **bold text**, and **text animations** for stylish terminal output.  
+**Xyzen** is a powerful Node.js module that provides over **250 colors**, including **neon colors**, **bold text**, and **text animations** for stylish terminal output.  
 
 ## 🚀 Features  
 - 🎨 **50+ Basic Colors** (including background colors)  
@@ -11,3 +11,4 @@
 ## 📦 Installation  
 ```sh
 npm install xyzen
+yarn add xyzen

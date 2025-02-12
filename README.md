@@ -11,4 +11,5 @@
 ## 📦 Installation  
 ```sh
 npm install xyzen
+
 yarn add xyzen

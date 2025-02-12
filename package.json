@@ -1,0 +1,18 @@
+{
+  "name": "xyzen",
+  "version": "1.0.0",
+  "description": "Custom color module for Node.js with
+ 50 colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit
+ 1"
+  },
+  "keywords": [
+    "color",
+    "nodejs",
+    "xyzen"
+  ],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,6 +1,6 @@
-# 🎨 ZenColors - Node.js Color Library  
+# 🎨 Xyzen - Node.js Color Library  
 
-**ZenColors** adalah module warna untuk Node.js yang mendukung lebih dari 80 warna dengan berbagai varian seperti warna dasar, terang, latar belakang, dan teks tebal.  
+**Xyzen** adalah module warna untuk Node.js yang mendukung lebih dari 80 warna dengan berbagai varian seperti warna dasar, terang, latar belakang, dan teks tebal.  
 
 ## 🎨 Warna yang Didukung  
 
@@ -162,3 +162,4 @@
 - Pearl White  
 - Royal Purple  
 - Sapphire Blue  
+## DLL, 250+ COLOR ##

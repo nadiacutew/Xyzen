@@ -1,6 +1,6 @@
 # 🎨 Xyzen - Node.js Color Library  
 
-**Xyzen** adalah module warna untuk Node.js yang mendukung lebih dari 80 warna dengan berbagai varian seperti warna dasar, terang, latar belakang, dan teks tebal.  
+**Xyzen** adalah module warna untuk Node.js yang mendukung lebih dari 250 warna dengan berbagai varian seperti warna dasar, terang, latar belakang, dan teks tebal.  
 
 ## 🎨 Warna yang Didukung  
 
